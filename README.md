@@ -8,7 +8,7 @@ Process checklist for **Limiar Imóveis**, a real estate agency. Every property 
 |---|---|
 | ![Dashboard](screenshots/dashboard.png) | ![Deal](screenshots/deal.png) |
 
-*Client names and contacts in the screenshots were replaced with fictitious data.*
+*Client names and contacts in the screenshots were replaced with placeholders.*
 
 ## Features
 
