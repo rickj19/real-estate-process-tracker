@@ -4,7 +4,11 @@ Process checklist for **Limiar Imóveis**, a real estate agency. Every property 
 
 **Live:** [limiarimoveis.com.br](https://limiarimoveis.com.br)
 
-![Login](screenshots/login.png)
+| Owner dashboard | Deal with step-by-step progress |
+|---|---|
+| ![Dashboard](screenshots/dashboard.png) | ![Deal](screenshots/deal.png) |
+
+*Client names and contacts in the screenshots were replaced with fictitious data.*
 
 ## Features
 
